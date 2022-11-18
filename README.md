@@ -11,9 +11,12 @@ PYTHON.
 - numpy
 - pygame
 - colorama
-- os
-- copy
-- time
+# Make sure you have all the above-mentioned module installed in your computer, run the following code to install
+```
+pip install numpy
+pip install pygame
+pip install colorama
+```
 # How to run
 - Run the file "Among-Koban.exe".
 - Or access the "source" folder and run the script "main.py" by typing.
